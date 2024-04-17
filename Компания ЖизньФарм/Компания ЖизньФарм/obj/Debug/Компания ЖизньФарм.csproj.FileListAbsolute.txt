@@ -1,0 +1,15 @@
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\bin\Debug\Компания ЖизньФарм.exe.config
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\bin\Debug\Компания ЖизньФарм.exe
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\bin\Debug\Компания ЖизньФарм.pdb
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания ЖизньФарм.csproj.AssemblyReference.cache
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания ЖизньФарм.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания_ЖизньФарм.Form1.resources
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания_ЖизньФарм.Properties.Resources.resources
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания ЖизньФарм.csproj.GenerateResource.cache
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания ЖизньФарм.csproj.CoreCompileInputs.cache
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания ЖизньФарм.exe
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания ЖизньФарм.pdb
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания_ЖизньФарм.Form2.resources
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания_ЖизньФарм.Form3.resources
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания_ЖизньФарм.Form4.resources
+C:\Users\0_311_8\Desktop\Компания ЖизньФарм\Компания ЖизньФарм\obj\Debug\Компания_ЖизньФарм.Form5.resources
